@@ -1,4 +1,4 @@
-fhand = open('data2.txt')
+fhand = open('<<FILENAME>>.txt')
 data = []
 for line in fhand:
 	line = line.strip()
